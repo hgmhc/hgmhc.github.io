@@ -15,22 +15,23 @@ timezone: Asia/Shanghai
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: 한글 문해 블로그                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: 수학, 과학, 정보의 향연   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  백준 온라인 저지, CSES Problem Set, CS Academy, UVa 외 여러 저지의 문제들을 풉니다.
+  과학은 생물 거의 안 다룹니다. 물리나 지학은 좋지요.
+  수학은 재밌어 보이는 것들 다 적어볼 겁니다.
+  교육적인 목적이나 지식 공유를 목적으로 하는 것들은 선을 나눕니다.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://hgmhc.github.io'
 
-author: your_full_name                  # change to your full name
+author: 김도훈(Dohoon Kim)                  # change to your full name
 
 github:
-  username: github_username             # change to your github username
+  username: hgmhc             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
